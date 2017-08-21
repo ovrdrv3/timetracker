@@ -4,8 +4,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
-    <!-- <meta http-equiv="x-ua-compatible" content="ie=edge"> -->
     <title>Time tracker</title>
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -19,13 +17,7 @@
         .btn-col{
             width: 38px;
         }
-
-
-
-
     </style>
-
-
 
   </head>
   <body>
@@ -33,7 +25,6 @@
     <div class="container-fluid">
 
     <header class="row">
-
         <div class="col-xs-6">
             <a data-mode="restore" id="btn-mode" href="#">Enter <span id="lbl-mode">Restore</span> Mode</a>
         </div>
@@ -70,18 +61,6 @@
             </tbody>
         </table>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     </div>
